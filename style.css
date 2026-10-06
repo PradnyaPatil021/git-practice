@@ -1,11 +1,11 @@
 body {
     font-family: Arial;
     text-align: center;
-    background-color: blueviolet;
-    color:beige;
+    background-color:beige;
+    color:brown;
 }
 hr {
     border: none;
     height: 2px;
-    background-color: beige;
+    background-color: brown;
 }
