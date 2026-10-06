@@ -4,3 +4,8 @@ body {
     background-color: blueviolet;
     color:beige;
 }
+hr {
+    border: none;
+    height: 2px;
+    background-color: beige;
+}
